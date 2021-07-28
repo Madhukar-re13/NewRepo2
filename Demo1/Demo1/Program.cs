@@ -6,7 +6,7 @@ namespace Demo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helloo GitHUB!");
+            Console.WriteLine("Helloo GitHUB example!");
         }
     }
 }
