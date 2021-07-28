@@ -7,6 +7,7 @@ namespace Demo1
         static void Main(string[] args)
         {
             Console.WriteLine("Helloo GitHUB!");
+            Console.WriteLine("Welcome to GitHub")
         }
     }
 }
