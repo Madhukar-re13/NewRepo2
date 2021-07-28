@@ -8,7 +8,7 @@ namespace Demo1
         {
             Console.WriteLine("Helloo GitHUB example!");
             Console.WriteLine("Helloo GitHUB!");
-            Console.WriteLine("Welcome to GitHub")
+            Console.WriteLine("Welcome to GitHub");
         }
     }
 }
